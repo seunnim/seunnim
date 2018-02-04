@@ -35,5 +35,11 @@ public class HomeController {
 		
 		return "home";
 	}
-	
+
+	@RequestMapping(value = "/setDev.do", method = RequestMethod.GET)
+	public String setDev(Locale locale, Model model) {
+		logger.info("setDev!!! The client locale is {}.", locale);
+		
+		return "dev/setDev";
+	}
 }

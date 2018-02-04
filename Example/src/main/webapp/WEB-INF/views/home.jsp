@@ -6,8 +6,11 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Spring Framework + Angular 공부하기!!
 </h1>
+
+1. 개발환경 세팅!! <a href="setDev.do">바로가기</a>
+
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
