@@ -34,7 +34,12 @@
 &nbsp;&nbsp;- HeidiSQL을 실행하여 세션관리차 실행하여 아래 정보로 신규 생성해 줌 <br>
 &nbsp;&nbsp;- 네트워크유형 : MySQL(TCP/IP), 호스트명 : seunnim-mariadb.cobd27r5zim4.ap-northeast-2.rds.amazonaws.com<br>
 &nbsp;&nbsp;- 사용자 : user, 암호 : user!234<br>
-&nbsp;&nbsp;- 포트 : 3306, 데이터베이트 : seundb
+&nbsp;&nbsp;- 포트 : 3306, 데이터베이트 : seundb<br>
+<br>
 
+<P>&nbsp;4) git 연결 정보 </P>
+&nbsp;&nbsp;- URI : https://github.com/seunnim/seunnim.git<br>
+&nbsp;&nbsp;- user : seunnim / password : seun!2345<br>
+&nbsp;&nbsp;- 관련 블로그 : <a target="#" href="http://www.itpaper.co.kr/eclipse%EC%97%90%EC%84%9C-github-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0/">Eclipse에서 Github 연동하기</a>
 </body>
 </html>

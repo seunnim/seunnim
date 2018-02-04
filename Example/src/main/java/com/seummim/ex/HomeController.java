@@ -42,4 +42,11 @@ public class HomeController {
 		
 		return "dev/setDev";
 	}
+
+	@RequestMapping(value = "/makeProject.do", method = RequestMethod.GET)
+	public String makeProject(Locale locale, Model model) {
+		logger.info("makeProject!!! The client locale is {}.", locale);
+		
+		return "dev/makeProject";
+	}
 }

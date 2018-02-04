@@ -10,7 +10,17 @@
 </h1>
 
 1. 개발환경 세팅!! <a href="setDev.do">바로가기</a>
+<br>
+<br>
+2. Spring + Maven 프로젝트 생성!! <a href="makeProject.do">바로가기</a>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
